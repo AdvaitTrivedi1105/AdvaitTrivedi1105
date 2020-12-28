@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Advait Trivedi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=advaittrivedi1105&label=Profile%20views&color=0e75b6&style=flat" alt="advaittrivedi1105" /> </p>
 
 - 🌱 I’m currently learning **Python Programming**
 
