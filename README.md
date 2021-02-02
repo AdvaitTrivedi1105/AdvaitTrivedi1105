@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python Programming**
 
-
+<!--
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
@@ -15,6 +15,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 </p>
+-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaittrivedi1105&show_icons=true&locale=en&layout=compact" alt="advaittrivedi1105" /></p>
 
